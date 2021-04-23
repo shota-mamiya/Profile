@@ -1,0 +1,7 @@
+display flex: 
+propertires
+
+justify-content: move things horizontally
+-align-items: move things vertically
+-flex direction: row and colunmn
+-
